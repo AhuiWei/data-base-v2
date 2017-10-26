@@ -1,2 +1,2 @@
 # data-base-v2
-this is ok!
+The files are about the DB course TP1 codes.
